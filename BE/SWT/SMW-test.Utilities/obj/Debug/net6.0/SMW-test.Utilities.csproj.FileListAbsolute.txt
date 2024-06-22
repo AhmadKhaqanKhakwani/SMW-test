@@ -1,0 +1,11 @@
+C:\Work\SWT\SMW-test.Utilities\bin\Debug\net6.0\SMW-test.Utilities.deps.json
+C:\Work\SWT\SMW-test.Utilities\bin\Debug\net6.0\SMW-test.Utilities.dll
+C:\Work\SWT\SMW-test.Utilities\bin\Debug\net6.0\SMW-test.Utilities.pdb
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.AssemblyInfoInputs.cache
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.AssemblyInfo.cs
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.csproj.CoreCompileInputs.cache
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.dll
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\refint\SMW-test.Utilities.dll
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\SMW-test.Utilities.pdb
+C:\Work\SWT\SMW-test.Utilities\obj\Debug\net6.0\ref\SMW-test.Utilities.dll

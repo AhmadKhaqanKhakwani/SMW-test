@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\SWT\\SMW-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B72300-ABFF-4E12-838D-C24F91749329}|SMW-test.csproj|c:\\work\\swt\\smw-test\\controllers\\numbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B72300-ABFF-4E12-838D-C24F91749329}|SMW-test.csproj|solutionrelative:controllers\\numbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECF349F-C50F-43FF-8691-DC336DFEA016}|..\\SMW-test.Utilities\\SMW-test.Utilities.csproj|c:\\work\\swt\\smw-test.utilities\\datastructure\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F44DD-F7B3-4BB0-BE68-3A89A701AF2D}|..\\SMW-test.Services\\SMW-test.Services.csproj|c:\\work\\swt\\smw-test.services\\implementation\\numberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F44DD-F7B3-4BB0-BE68-3A89A701AF2D}|..\\SMW-test.Services\\SMW-test.Services.csproj|c:\\work\\swt\\smw-test.services\\interface\\inumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B72300-ABFF-4E12-838D-C24F91749329}|SMW-test.csproj|c:\\work\\swt\\smw-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B72300-ABFF-4E12-838D-C24F91749329}|SMW-test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Work\\SWT\\SMW-test.Utilities\\DataStructure\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "..\\SMW-test.Utilities\\DataStructure\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Work\\SWT\\SMW-test.Utilities\\DataStructure\\BinarySearchTree.cs",
+              "RelativeToolTip": "..\\SMW-test.Utilities\\DataStructure\\BinarySearchTree.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAIAwwEoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:48:15.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberService.cs",
+              "DocumentMoniker": "C:\\Work\\SWT\\SMW-test.Services\\Implementation\\NumberService.cs",
+              "RelativeDocumentMoniker": "..\\SMW-test.Services\\Implementation\\NumberService.cs",
+              "ToolTip": "C:\\Work\\SWT\\SMW-test.Services\\Implementation\\NumberService.cs",
+              "RelativeToolTip": "..\\SMW-test.Services\\Implementation\\NumberService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwDMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:34:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INumberService.cs",
+              "DocumentMoniker": "C:\\Work\\SWT\\SMW-test.Services\\Interface\\INumberService.cs",
+              "RelativeDocumentMoniker": "..\\SMW-test.Services\\Interface\\INumberService.cs",
+              "ToolTip": "C:\\Work\\SWT\\SMW-test.Services\\Interface\\INumberService.cs",
+              "RelativeToolTip": "..\\SMW-test.Services\\Interface\\INumberService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvw0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:34:22.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\SWT\\SMW-test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\SWT\\SMW-test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:27:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberController.cs",
+              "DocumentMoniker": "C:\\Work\\SWT\\SMW-test\\Controllers\\NumberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NumberController.cs",
+              "ToolTip": "C:\\Work\\SWT\\SMW-test\\Controllers\\NumberController.cs*",
+              "RelativeToolTip": "Controllers\\NumberController.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:19:13.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

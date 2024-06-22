@@ -1,0 +1,15 @@
+C:\Work\SWT\SMW-test.Services\bin\Debug\net6.0\SMW-test.Services.deps.json
+C:\Work\SWT\SMW-test.Services\bin\Debug\net6.0\SMW-test.Services.dll
+C:\Work\SWT\SMW-test.Services\bin\Debug\net6.0\SMW-test.Services.pdb
+C:\Work\SWT\SMW-test.Services\bin\Debug\net6.0\SMW-test.Utilities.dll
+C:\Work\SWT\SMW-test.Services\bin\Debug\net6.0\SMW-test.Utilities.pdb
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.csproj.AssemblyReference.cache
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.AssemblyInfoInputs.cache
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.AssemblyInfo.cs
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.csproj.CoreCompileInputs.cache
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.B78FC6A5.Up2Date
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.dll
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\refint\SMW-test.Services.dll
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\SMW-test.Services.pdb
+C:\Work\SWT\SMW-test.Services\obj\Debug\net6.0\ref\SMW-test.Services.dll

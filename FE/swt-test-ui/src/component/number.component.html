@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="input-section">
+      <input type="number" [(ngModel)]="numberToAdd" placeholder="Enter number">
+      <button (click)="addNumber()">Add Number</button>
+    </div>
+  
+    <div class="options-section">
+        <label>
+          <input type="radio" name="dataStructure" value="SortedSet" [(ngModel)]="activeDataStructure" (change)="onChange()">
+          SortedSet
+        </label>
+        <label>
+          <input type="radio" name="dataStructure" value="LinkedList" [(ngModel)]="activeDataStructure" (change)="onChange()">
+          LinkedList
+        </label>
+        <label>
+          <input type="radio" name="dataStructure" value="BTree" [(ngModel)]="activeDataStructure" (change)="onChange()">
+          BTree
+        </label>
+    </div>
+
+    <div class="actions-section">
+      <button (click)="getMax()">Get Max</button>
+      <button (click)="getMin()">Get Min</button>
+    </div>
+  
+    <div class="result-section">
+      <p>Result: {{ result }}</p>
+    </div>
+  </div>
+  

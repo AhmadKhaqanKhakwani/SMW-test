@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eEClvYR5k+HbeSRB/nf8Y432L9/X83yn8beDnXYF9ys6dtAuTQHLM0xvCsUw0/8o/TnxSDuSgzhrjblUjyueQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\SWT\\SMW-test\\SMW-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAPTOP MART\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
